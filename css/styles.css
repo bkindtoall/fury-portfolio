@@ -1,21 +1,56 @@
 .container {
   position: relative;
+  background-image: url("../img/background4.jpg");
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-
 .jumbotron {
-  background-color: #80dfff;
+  background-color: #007399;
   font-family: cursive;
   text-align: center;
   text-shadow: 1px 1px 1px #00131a;
   color: #80dfff;
 }
+.well {
+  background-image: url("../img/texture1.jpeg");
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+h2 {
+  background-color: #e0ebeb;
+  color: #80dfff;
+  text-shadow: 1px 1px 1px #00131a;
+  font-family: cursive;
+  text-align: center;
+  border-style: double;
+}
+p {
+  text-align: center;
+  background-color: #e0ebeb;
+  font-family: cursive;
+}
+.ul1 {
+  background-color: #e0ebeb;
+  font-family: cursive;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+h3 {
+  background-color: #e0ebeb;
+  color: #80dfff;
+  text-shadow: 1px 1px 1px #00131a;
+  font-family: cursive;
+  text-align: center;
+  border-style: double;
+}
 .photor {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 4px;
-  width: 70px;
-  height: 100px;
+  width: 100px;
+  height: 120px;
   object-fit: contain;
 }
 .xbold {
@@ -36,7 +71,6 @@
 }
 
 .col-lg-3-header {
-  /*text-decoration: underline;*/
   background-color: #ccf2ff;
   text-shadow: lightgrey 1px 2px;
   font-weight: bold;
