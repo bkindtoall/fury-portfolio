@@ -23,3 +23,12 @@
   font-size: 150%;
   font-family: cursive;
 }
+
+.col-lg-3 {
+  background-color: #ffcccc;
+  border-radius: 4px;
+  padding: 2px;
+  margin: 2px;
+  text-align: center;
+
+}
