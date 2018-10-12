@@ -1,8 +1,25 @@
+.container {
+  position: relative;
+}
+
 .jumbotron {
   background-color: #80dfff;
   font-family: cursive;
   text-align: center;
-  text-rendering: auto;
   text-shadow: 1px 1px 1px #00131a;
   color: #80dfff;
+}
+.photor {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 4px;
+  width: 70px;
+  height: 100px;
+  object-fit: contain;
+}
+.xbold {
+  font-weight: bolder;
+  font-size: 150%;
+  font-family: cursive;
 }
