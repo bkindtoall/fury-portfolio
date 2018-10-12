@@ -28,7 +28,19 @@
   background-color: #ffcccc;
   border-radius: 4px;
   padding: 2px;
-  margin: 2px;
+  margin: 6px;
   text-align: center;
+}
+.ul-projects {
+  text-align: left;
+}
 
+.col-lg-3-header {
+  /*text-decoration: underline;*/
+  background-color: #ccf2ff;
+  text-shadow: lightgrey 1px 2px;
+  font-weight: bold;
+  font-family: serif;
+  margin-left: 20%;
+  margin-right: 20%;
 }
