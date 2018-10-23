@@ -18,6 +18,11 @@
   background-repeat:no-repeat;
   background-size:cover;
 }
+
+#trisha {
+  float: right;
+}
+
 h2 {
   background-color: #e0ebeb;
   color: #80dfff;

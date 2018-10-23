@@ -9,7 +9,7 @@
 Webpage with name banner, an image of me. A list of projects I've created with active links to their GitHub pages sites or GitHub repositories. Including a brief description of the project and what languages it uses.
 An “About Me” section. My background (education, job experience, or why did you decide to take a class on programming, etc). My current interests/hobbies/skills.
 
-https://github.com/bkindtoall/fury-portfolio.git
+https://bkindtoall.gitHub.io/fury-portfolio
 
 
 ## Support and contact details
@@ -24,8 +24,6 @@ GIT
 GitHub
 Bootstrap
 
-### License
-
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This software is licensed under the MIT license.*
 
 Copyright (c) 2018 PF
